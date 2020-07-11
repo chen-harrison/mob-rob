@@ -49,14 +49,14 @@ A MATLAB wrapper of the [GTSAM library](https://gtsam.org/) was used to perform 
 
 ### *Batch Solution*
 <p align="left">
-  <img src="media/1B.jpg" width="300">
-  <img src="media/2B_top.jpg" width="300">
-  <img src="media/2B_iso.jpg" width="300">
+  <img src="media/1B.jpg" width="280">
+  <img src="media/2B_top.jpg" width="280">
+  <img src="media/2B_iso.jpg" width="280">
 </p>
 
 ### *Incremental Solution*
 <p align="left">
-  <img src="media/1C.jpg" width="300">
-  <img src="media/2C_top.jpg" width="300">
-  <img src="media/2C_iso.jpg" width="300">
+  <img src="media/1C.jpg" width="280">
+  <img src="media/2C_top.jpg" width="280">
+  <img src="media/2C_iso.jpg" width="280">
 </p>
