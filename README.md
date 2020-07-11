@@ -27,18 +27,20 @@ Both discrete and continuous counting sensor models were used in conjunction wit
 
 ### *Discrete Model*
 <p align="left">
-  <img src="media/task1_mean.png" width="300">
-  <img src="media/task1_variance.png" width="300">
-  <img src="media/task3_mean.png" width="300">
-  <img src="media/task3_variance.png" width="300">
+  <img src="media/task1_mean.png" width="320">
+  <img src="media/task1_variance.png" width="320">
+  <br>
+  <img src="media/task3_mean.png" width="320">
+  <img src="media/task3_variance.png" width="320">
 </p>
 
 ### *Continuous Model*
 <p align="left">
-  <img src="media/task2_mean.png" width="300">
-  <img src="media/task2_variance.png" width="300">
-  <img src="media/task4_mean.png" width="300">
-  <img src="media/task4_variance.png" width="300">
+  <img src="media/task2_mean.png" width="320">
+  <img src="media/task2_variance.png" width="320">
+  <br>
+  <img src="media/task4_mean.png" width="320">
+  <img src="media/task4_variance.png" width="320">
 </p>
 
 
@@ -47,14 +49,14 @@ A MATLAB wrapper of the [GTSAM library](https://gtsam.org/) was used to perform 
 
 ### *Batch Solution*
 <p align="left">
-  <img src="media/1B.jpg" width="280">
-  <img src="media/2B_top.jpg" width="280">
-  <img src="media/2B_iso.jpg" width="280">
+  <img src="media/1B.jpg" width="300">
+  <img src="media/2B_top.jpg" width="300">
+  <img src="media/2B_iso.jpg" width="300">
 </p>
 
 ### *Incremental Solution*
 <p align="left">
-  <img src="media/1C.jpg" width="280">
-  <img src="media/2C_top.jpg" width="280">
-  <img src="media/2C_iso.jpg" width="280">
+  <img src="media/1C.jpg" width="300">
+  <img src="media/2C_top.jpg" width="300">
+  <img src="media/2C_iso.jpg" width="300">
 </p>
